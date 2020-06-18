@@ -19,4 +19,4 @@
 <p>Now edit the script and update variable "RMQ_URL" with your RMQ management console url. </p>
 
 <p>Now run the script as below: </p>
-<li>./Check_RMQ_Stats -q MyQueue -p MyParameter -c Threshold </li>
+</mark>./Check_RMQ_Stats -q MyQueue -p MyParameter -c Threshold</mark>
