@@ -1,6 +1,6 @@
 <h1>Check RMQ Statistics</h1>
 
-<b>This script is used to pull RMQ stats for SSL/Non-SSL RMQ clusters.</b>
+<b>This script is used to pull RMQ statistics for SSL/Non-SSL RMQ clusters.</b>
 
 <p>You can Get below list of parameters for queues: </p>
 <li>CONSUMER_COUNT  -  This will give you total number of consumers for queue </li>
@@ -20,3 +20,6 @@
 
 <p>Now run the script as below: </p>
 </mark>./Check_RMQ_Stats -q MyQueue -p MyParameter -c Threshold</mark>
+
+
+<p>Keywords : RMQ Statistics, Message Consumption Count, Check RabbitMQ statistics, RMQ Message Count, RMQ Delivery Rate</p>
